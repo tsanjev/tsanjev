@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tsanjev
 - 👀 I’m interested in PowerShell / C++ C# / Python
 - 🌱 I’m currently learning PowerShell
-- 💞️ I’m looking to collaborate on automation for enterpise vulnerability management.
+- 💞️ I’m looking to collaborate on automation for anything SOC / MS Sentinel / KQL .
 
 <!---
 tsanjev/tsanjev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
